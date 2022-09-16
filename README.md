@@ -2,4 +2,4 @@
 
 # sbox-TTT-graphics
 
-General graphics created for the game
+General graphics created [sbox-TTT](https://github.com/CigarLounge/sbox-TTT)
